@@ -1,0 +1,14 @@
+uuid: da33be78-1591-4214-b45f-a9c36943bf42
+name: 'Stage site'
+mail: a@q
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
